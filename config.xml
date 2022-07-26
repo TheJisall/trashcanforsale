@@ -161,7 +161,7 @@
 		<hull path="data/hulls/mamont/m3/" name="Mammoth " price="10200"/>
 
 
-		<hull path="data/hulls/jugger/m0/" name="Hornet Prototype" price="75000"/>
+		<hull path="data/hulls/jugger/m0/" name="Hornet Prototype" price="7500"/>
 		<hull path="data/hulls/jugger/m1/" name="Hornet Prototype" price="102000"/>
 		<hull path="data/hulls/jugger/m2/" name="Hornet Prototype" price="234000"/>
 		<hull path="data/hulls/jugger/m3/" name="Hornet Prototype" price="500355"/>
