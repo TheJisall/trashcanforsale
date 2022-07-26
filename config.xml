@@ -1979,7 +1979,7 @@
 <returnForce val="7300000"/>
 <force val="12000000"/>
 <fireReadyDelay val="1100"/>
-<delay val="6400"/>
+<delay val="64"/>
 <maxDamage val="38"/>
 <minDamage val="28"/>
 <timePart2 val="350"/>
