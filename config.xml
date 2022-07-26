@@ -1499,12 +1499,12 @@
 <profile id="m0">
 <shot id="smokyShot0"/>
 <explosion id="smokyExplosion0"/>
-<returnForce val="2000000"/>
-<force val="2000000"/>
+<returnForce val="20000"/>
+<force val="20000"/>
 <fireDelay val="200"/>
 <turretSpeed val="1"/>
-<maxDamage val="260"/>
-<minDamage val="110"/>
+<maxDamage val="2600"/>
+<minDamage val="1100"/>
 </profile>
 <profile id="m1">
 <shot id="smokyShot1"/>
