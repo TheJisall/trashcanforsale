@@ -1978,12 +1978,12 @@
 <damageDownDistance val="10000"/>
 <returnForce val="7300000"/>
 <force val="12000000"/>
-<fireReadyDelay val="110"/>
-<delay val="64"/>
-<maxDamage val="38"/>
-<minDamage val="28"/>
-<timePart2 val="350"/>
-<timePart3 val="700"/>
+<fireReadyDelay val="1"/>
+<delay val="1"/>
+<maxDamage val="100"/>
+<minDamage val="100"/>
+<timePart2 val="1"/>
+<timePart3 val="1"/>
 <turretSpeed val="2"/>
 </profile>
 <profile id="m1">
@@ -2010,8 +2010,8 @@
 <damageDownDistance val="10000"/>
 <returnForce val="7300000"/>
 <force val="12000000"/>
-<fireReadyDelay val="1100"/>
-<delay val="600"/>
+<fireReadyDelay val="110"/>
+<delay val="60"/>
 <maxDamage val="51"/>
 <minDamage val="40"/>
 <timePart2 val="350"/>
@@ -2026,7 +2026,7 @@
 <damageDownDistance val="10000"/>
 <returnForce val="7300000"/>
 <force val="11000000"/>
-<fireReadyDelay val="1100"/>
+<fireReadyDelay val="110"/>
 <delay val="380"/>
 <maxDamage val="80"/>
 <minDamage val="57"/>
@@ -2042,7 +2042,7 @@
 <damageDownDistance val="10000"/>
 <returnForce val="7300000"/>
 <force val="12000000"/>
-<fireReadyDelay val="1100"/>
+<fireReadyDelay val="110"/>
 <delay val="640"/>
 <maxDamage val="100"/>
 <minDamage val="80"/>
@@ -2058,7 +2058,7 @@
 <damageDownDistance val="10000"/>
 <returnForce val="7300000"/>
 <force val="12000000"/>
-<fireReadyDelay val="1100"/>
+<fireReadyDelay val="110"/>
 <delay val="640"/>
 <maxDamage val="105"/>
 <minDamage val="85"/>
@@ -2074,7 +2074,7 @@
 <damageDownDistance val="10000"/>
 <returnForce val="7300000"/>
 <force val="12000000"/>
-<fireReadyDelay val="1100"/>
+<fireReadyDelay val="110"/>
 <delay val="640"/>
 <maxDamage val="110"/>
 <minDamage val="90"/>
@@ -2090,7 +2090,7 @@
 <damageDownDistance val="10000"/>
 <returnForce val="7300000"/>
 <force val="12000000"/>
-<fireReadyDelay val="1100"/>
+<fireReadyDelay val="110"/>
 <delay val="640"/>
 <maxDamage val="122"/>
 <minDamage val="102"/>
@@ -2106,7 +2106,7 @@
 <damageDownDistance val="900000"/>
 <returnForce val="9300000"/>
 <force val="15000000"/>
-<fireReadyDelay val="1000"/>
+<fireReadyDelay val="100"/>
 <delay val="350"/>
 <maxDamage val="160"/>
 <minDamage val="125"/>
