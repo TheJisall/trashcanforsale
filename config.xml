@@ -1978,13 +1978,13 @@
 <damageDownDistance val="10000"/>
 <returnForce val="7300000"/>
 <force val="12000000"/>
-<fireReadyDelay val="1100"/>
+<fireReadyDelay val="110"/>
 <delay val="64"/>
 <maxDamage val="38"/>
 <minDamage val="28"/>
 <timePart2 val="350"/>
 <timePart3 val="700"/>
-<turretSpeed val="0.6"/>
+<turretSpeed val="2"/>
 </profile>
 <profile id="m1">
 <charge1 id="railgunCharge11"/>
