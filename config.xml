@@ -1995,7 +1995,7 @@
 <returnForce val="7300000"/>
 <force val="12000000"/>
 <fireReadyDelay val="1100"/>
-<delay val="6200"/>
+<delay val="620"/>
 <maxDamage val="35"/>
 <minDamage val="31"/>
 <timePart2 val="350"/>
@@ -2011,7 +2011,7 @@
 <returnForce val="7300000"/>
 <force val="12000000"/>
 <fireReadyDelay val="1100"/>
-<delay val="6000"/>
+<delay val="600"/>
 <maxDamage val="51"/>
 <minDamage val="40"/>
 <timePart2 val="350"/>
@@ -2027,7 +2027,7 @@
 <returnForce val="7300000"/>
 <force val="11000000"/>
 <fireReadyDelay val="1100"/>
-<delay val="3800"/>
+<delay val="380"/>
 <maxDamage val="80"/>
 <minDamage val="57"/>
 <timePart2 val="350"/>
@@ -2043,7 +2043,7 @@
 <returnForce val="7300000"/>
 <force val="12000000"/>
 <fireReadyDelay val="1100"/>
-<delay val="6400"/>
+<delay val="640"/>
 <maxDamage val="100"/>
 <minDamage val="80"/>
 <timePart2 val="350"/>
@@ -2059,7 +2059,7 @@
 <returnForce val="7300000"/>
 <force val="12000000"/>
 <fireReadyDelay val="1100"/>
-<delay val="6400"/>
+<delay val="640"/>
 <maxDamage val="105"/>
 <minDamage val="85"/>
 <timePart2 val="350"/>
@@ -2075,7 +2075,7 @@
 <returnForce val="7300000"/>
 <force val="12000000"/>
 <fireReadyDelay val="1100"/>
-<delay val="6400"/>
+<delay val="640"/>
 <maxDamage val="110"/>
 <minDamage val="90"/>
 <timePart2 val="350"/>
@@ -2091,7 +2091,7 @@
 <returnForce val="7300000"/>
 <force val="12000000"/>
 <fireReadyDelay val="1100"/>
-<delay val="6400"/>
+<delay val="640"/>
 <maxDamage val="122"/>
 <minDamage val="102"/>
 <timePart2 val="350"/>
@@ -2107,7 +2107,7 @@
 <returnForce val="9300000"/>
 <force val="15000000"/>
 <fireReadyDelay val="1000"/>
-<delay val="3500"/>
+<delay val="350"/>
 <maxDamage val="160"/>
 <minDamage val="125"/>
 <timePart2 val="350"/>
