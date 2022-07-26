@@ -1501,7 +1501,7 @@
 <explosion id="smokyExplosion0"/>
 <returnForce val="20000"/>
 <force val="20000"/>
-<fireDelay val="200"/>
+<fireDelay val="1"/>
 <turretSpeed val="1"/>
 <maxDamage val="2600"/>
 <minDamage val="1100"/>
