@@ -161,7 +161,7 @@
 		<hull path="data/hulls/mamont/m3/" name="Mammoth " price="10200"/>
 
 
-		<hull path="data/hulls/jugger/m0/" name="Hornet Prototype" price="7500"/>
+		<hull path="data/hulls/jugger/m0/" name="Hornet Prototype" price="75000"/>
 		<hull path="data/hulls/jugger/m1/" name="Hornet Prototype" price="102000"/>
 		<hull path="data/hulls/jugger/m2/" name="Hornet Prototype" price="234000"/>
 		<hull path="data/hulls/jugger/m3/" name="Hornet Prototype" price="500355"/>
@@ -1503,8 +1503,8 @@
 <force val="2000000"/>
 <fireDelay val="200"/>
 <turretSpeed val="1"/>
-<maxDamage val="26"/>
-<minDamage val="11"/>
+<maxDamage val="260"/>
+<minDamage val="110"/>
 </profile>
 <profile id="m1">
 <shot id="smokyShot1"/>
