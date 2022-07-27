@@ -1246,7 +1246,7 @@
 	</numerics>
 	<descriptions>
 		<turrets>
-			<description name="Smoky" text="data/turrets/smoky/m0/preview.png;Originickname was here O_O"/>
+			<description name="Smoky" text="data/turrets/smoky/m0/preview.png;Originickname was here. Next time you make a OldTanks mod, secure it better than the previous owners."/>
 			<description name="Firebird" text="data/turrets/flamethrower/m0/preview.png;When battles take place in close quarters, there is no better weapon than the firebird. This is a weapon of mass annihilation which can and will melt down any tank and its crew in no time. It is highly effective in confined spaces against slow moving tanks. Firebird is relatively slow when it comes to recharging but you can also shoot with a partially recharged gun."/>
 			<description name="Twins" text="data/turrets/twins/m0/preview.png;This rapid firing two barreled plasma gun will melt enemy in seconds. Taking into account the fact that by hitting other tanks with Twins, you knock off their aim, the weapon is ideal when it comes to dynamic firefight at medium distances."/>
 			<description name="Railgun" text="data/turrets/railgun/m0/preview.png;If mid caliber guns are not enough for your self expression, this weapon is right for you. Large caliber gun with huge muzzle speed and shells using depleted uranium. Extremely powerful and accurate kinetic projectile can go right through the enemy's tank or hit several targets standing on the line of fire with a single shot. An ideal choice for long range trench warfare and sniping. Remember that it takes a lot of time to recharge the gun and make sure your opponents will not take advantage of it."/>
@@ -1256,11 +1256,11 @@
 			<description name="Ricochet" text="data/turrets/ricochet/m0/preview.png;Ricochet plasma gun is a new secret project of Siberian scientists. To produce this gun team of 22 high class professionals have been working in the underground bunker more than three years without permission to exit on the surface. And they have created a unique weapon. It throws plasma charges cloaked with clever minus field. When such charge hits the tank it explodes. So with Ricochet you can heat targets out of your visibility range."/>
 			<description name="Shaft" text="data/turrets/shaft/m0/preview.png;The Shaft gun was designed by scientists who gave its enormous possibilities. It can make coffee, deliver pizzas, pay billz. Get a unique opportunity to fight at long and short distances."/>
 			<description name="Isida Prototype" text="data/turrets/terminator/m3/preview.png;This is a prototype of the legendary nanorobot weapon, and was the first model of the Isida weapon. Isida Prototype was firstly available on the test servers much years ago, and was replaced with newest models."/>
-			<description name="Snowman" text="data/turrets/vulkan/m0/preview.png;Do you love snow? Because we do :)"/>
+			<description name="Snowman" text="data/turrets/vulkan/m0/preview.png;Do you love snow? Because we do :) (I dont)"/>
 			<description name="Ricochet Prototype" text="data/turrets/striker/m0/preview.png;This is a prototype of the legendary plasma weapon, and was the first model of the Ricochet weapon. Ricochet Prototype was firstly available on the test servers much years ago, and was replaced with newest models."/>
-			<description name="Pumkin" text="data/turrets/gauss/m0/preview.png;The most scary weapon in this game. Isn't it?"/>
+			<description name="Pumkin" text="data/turrets/gauss/m0/preview.png;The most scary weapon in this game. Isn't it? (It is not the most scary weapon in this game. The most scary weapon in this game is shaft.)"/>
 			<description name="Smoky XT" text="data/turrets/gauss/prime/preview.png;A special version of the classic Smoky gun, Smoky XT posseses greater power than any standard modification, including the M3."/>
-			<description name="Railgun Prototype" text="data/turrets/railgun/prime/preview.png;One of the most beloved turrets in the game gets a cool retro look with its very own Prototype skin. A throwback to what this deadly turret looked like before the rebalance."/>
+			<description name="Railgun Prototype" text="data/turrets/railgun/prime/preview.png;One of the most beloved turrets in the game gets a cool retro look with its very own Prototype skin. A throwback to what this deadly turret looked like before the rebalance. (Thats not how it looked)"/>
 		</turrets>
 		<hulls>
             <description name="Hunter" text="data/hulls/hunter/m0/preview.png;Hunter is the most versatile hull in the game. Thanks to balance between reinforced steel armor plates and low energy consumption this armor is an all purpose one. It is good for everybody, and you'll never stay without a job on a field of war."/>			
