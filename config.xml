@@ -1501,10 +1501,10 @@
 <explosion id="smokyExplosion0"/>
 <returnForce val="20000"/>
 <force val="20000"/>
-<fireDelay val="1"/>
+<fireDelay val="90"/>
 <turretSpeed val="1"/>
-<maxDamage val="2600"/>
-<minDamage val="1100"/>
+<maxDamage val="1"/>
+<minDamage val="1"/>
 </profile>
 <profile id="m1">
 <shot id="smokyShot1"/>
