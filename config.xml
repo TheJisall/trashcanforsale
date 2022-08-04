@@ -1497,14 +1497,14 @@
 <weapons>
 <smoky>
 <profile id="m0">
-<shot id="smokyShot0"/>
-<explosion id="smokyExplosion0"/>
-<returnForce val="20000"/>
-<force val="20000"/>
-<fireDelay val="90"/>
-<turretSpeed val="1"/>
-<maxDamage val="1"/>
-<minDamage val="1"/>
+<shot id="smokyShot1"/>
+<explosion id="smokyExplosion1"/>
+<returnForce val="3000000"/>
+<force val="2000000"/>
+<fireDelay val="190"/>
+<turretSpeed val="1.1"/>
+<maxDamage val="27"/>
+<minDamage val="12"/>
 </profile>
 <profile id="m1">
 <shot id="smokyShot1"/>
